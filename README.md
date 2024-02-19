@@ -7,7 +7,7 @@
   all in for the learning experience.
 
 - **🌱 I’m currently learning:** Advanced coding techniques and diving into the realms
-  of Software Engineering and Artificial Intelligence. Every line of code teaches me
+  of Software Engineering, Alogorithms, Virtual Reality and Artificial Intelligence. Every line of code teaches me
   something new, and I'm here for all the lessons!
 
 - **👯 I’m looking to collaborate on:** Anything that lets me code, learn, and
