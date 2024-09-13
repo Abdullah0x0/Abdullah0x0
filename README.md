@@ -1,6 +1,8 @@
 <h2 align="center"><strong>Hi there 👋, I'm Abdullah Choudhry</strong></h2>
 <p align="center"></p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-choudhry-266227273/" target="_blank" style="font-size: 20px; font-weight: bold; color: #0A66C2; text-decoration: none;">✨🔗 LinkedIn 🔗✨</a>
+</p>
 
 - **🔭 I’m currently working on:** Personal projects that challenge my understanding
   and push me to explore more. Whether it's a small app or a complex algorithm, I'm
