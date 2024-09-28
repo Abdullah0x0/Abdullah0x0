@@ -37,7 +37,7 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy:
+ <!-- ### 🏆 GitHub Profile Trophy:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Abdullah0x0&theme=radical)
 
 ---
