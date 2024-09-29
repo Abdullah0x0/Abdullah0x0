@@ -18,7 +18,7 @@
 - **👯 I’m looking to collaborate on:** Anything that lets me code, learn, and contribute. If you're working on a project that could use an extra pair of hands or a fresh perspective, count me in!
 - **🤔 I’m looking for help with:** Navigating the vast landscape of tech internships. If you have insights on scoring internships in Software Engineering or AI, I'm all ears. Let's share knowledge and grow together!
 - **💬 Ask me about:** My coding journey, the projects I've worked on, or anything tech-related. I love discussing ideas, sharing knowledge, and learning from others' experiences.
-- **📫 How to reach me:** Drop me a message here on GitHub or shoot me an email. I'm always open to conversations and new connections.
+- **📫 How to reach me:** Drop me a message here on GitHub or LinkedIN. I'm always open to conversations and new connections.
 - **😄 Pronouns:** He/Him/His
 - **⚡ Fun fact:** When I'm not coding, you might find me lost in the world of sci-fi novels or tinkering with gadgets. There's just something about exploring futuristic worlds and innovations that excites me!
 
