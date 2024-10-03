@@ -44,5 +44,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Abdullah0x0&style=flat-square)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah0x0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah0x0&theme=radical&hide_border=false)<br/>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah0x0&theme=radical)<br/>
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah0x0&show_icons=true&theme=radical&count_private=true&include_all_commits=true)<br/> -->
+<!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah0x0&theme=radical)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah0x0&show_icons=true&theme=radical&count_private=true&include_all_commits=true)<br/> -->
