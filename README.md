@@ -21,7 +21,7 @@ In my research endeavors, I led a project focused on prompt engineering for Larg
 
 I've had the opportunity to lead and develop a diverse array of projects, including a Fitness Tracker Gym App in Java, a Haunted Mansion Mystery VR experience using Unreal Engine 5, and several Python-based projects: an AI-driven Minimax Tic-Tac-Toe game, a Geospatial Neural Network, and a Stock Market Genetic Algorithm. Additionally, I have worked on *CurseBound*, a 2D turn-based RPG in Java, and developed complex C++ applications like a Banking System and a Property Listing Applcation.
 
-My technical skills span C++, Java, Python, and R, along with experience in Linux, Git, Docker, Conda, CUDA, Unreal Engine 5 amongst several others. I'm excited to bring my research background, technical expertise, and project leadership experience to a dynamic team where I can contribute to impactful projects and advance in the fields of Artificial Intelligence and Software Engineering.
+My technical skills span C++, Java, Python, and JavaScript, along with experience in Linux, Git, Docker, Conda, CUDA, Unreal Engine 5 amongst several others. I'm excited to bring my research background, technical expertise, and project leadership experience to a dynamic team where I can contribute to impactful projects and advance in the fields of Artificial Intelligence and Software Engineering.
 
 ---
 
