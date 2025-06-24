@@ -17,11 +17,11 @@ I'm an Honors Computer Science student with a deep passion for Software Engineer
 
 At NVIDIA, I served as a High Performance Computing and Deep Learning Performance Engineer Intern, where I led GPU performance benchmarking across various HPC and Deep Learning frameworks, including PyTorch, TensorFlow, and CUDA. I developed automation frameworks, conducted performance analyses on supercomputing clusters with Linux and SLURM, and optimized GPU-based applications in collaboration with cross-functional teams.
 
-In my research endeavors, I led a project focused on prompt engineering for Large Language Models, analyzing how prompt techniques influence information quality and readability across domains. Additionally, I contributed to computational biology research by optimizing RNA sequencing algorithms in Python and utilizing high-performance computing resources and Jupter notebooks to conduct data analysis and visualization, with results presented at my university's research conference.
+My work spans a wide range of AI applications, including deep learning for computational biology, leveraging large language models for instructional use, and tackling real-world challenges through projects like Neural Oceans — which uses satellite imagery and deep neural networks to detect ocean plastic pollution — and Adaptive Education AI, an autonomous robot professor designed to teach students through natural interaction. I have also explored the perception deficits of image recognition models under adversarial conditions and have multiple research publications.
 
-I've had the opportunity to lead and develop a diverse array of projects, including a Fitness Tracker Gym App in Java, a Haunted Mansion Mystery VR experience using Unreal Engine 5, and several Python-based projects: an AI-driven Minimax Tic-Tac-Toe game, a Geospatial Neural Network, and a Stock Market Genetic Algorithm. Additionally, I have worked on *CurseBound*, a 2D turn-based RPG in Java, and developed complex C++ applications like a Banking System and a Property Listing Applcation.
+I've had the opportunity to participate in several hackathons and have also won big at two of them!
 
-My technical skills span C++, Java, Python, and JavaScript, along with experience in Linux, Git, Docker, Conda, CUDA, Unreal Engine 5 amongst several others. I'm excited to bring my research background, technical expertise, and project leadership experience to a dynamic team where I can contribute to impactful projects and advance in the fields of Artificial Intelligence and Software Engineering.
+I'm excited to bring my research background, technical expertise, and project leadership experience to a dynamic team where I can contribute to impactful projects and advance in the fields of Artificial Intelligence and Software Engineering.
 
 ---
 
