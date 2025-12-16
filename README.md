@@ -17,7 +17,7 @@ I'm an Honors Computer Science graduate with a deep passion for Software Enginee
 
 At NVIDIA, I interned as a Performance Engineer focusing on High-Performance Computing and Deep Learning. I led GPU performance benchmarking across various HPC and Deep Learning frameworks, including PyTorch, TensorFlow, and CUDA. I developed automation frameworks, conducted performance analyses on supercomputing clusters with Linux and SLURM, and optimized GPU-based applications in collaboration with cross-functional teams.
 
-I'm excited to bring my background in research, technical expertise, and project leadership experience to a dynamic team where I can contribute to impactful projects and advance in the fields of Artificial Intelligence and Software Engineering.
+I'm excited to bring my background in research, technical expertise, and project leadership to a dynamic team where I can contribute to impactful projects and advance in the fields of Artificial Intelligence and Software Engineering.
 
 ---
 
