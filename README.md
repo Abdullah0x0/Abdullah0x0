@@ -13,15 +13,11 @@
 
 ### 👨‍💻 About Me
 
-I'm an Honors Computer Science student with a deep passion for Software Engineering and Artificial Intelligence. My academic journey has been enriched by rigorous coursework in Data Structures, Algorithms, Application Development, Artificial Intelligence, Software Engineering, Digital Design, Computer Systems & Networks, Statistics & Probability, Calculus, and Computing Ethics.
+I'm an Honors Computer Science graduate with a deep passion for Software Engineering and Artificial Intelligence.
 
-At NVIDIA, I served as a High Performance Computing and Deep Learning Performance Engineer Intern, where I led GPU performance benchmarking across various HPC and Deep Learning frameworks, including PyTorch, TensorFlow, and CUDA. I developed automation frameworks, conducted performance analyses on supercomputing clusters with Linux and SLURM, and optimized GPU-based applications in collaboration with cross-functional teams.
+At NVIDIA, I interned as a Performance Engineer focusing on High-Performance Computing and Deep Learning. I led GPU performance benchmarking across various HPC and Deep Learning frameworks, including PyTorch, TensorFlow, and CUDA. I developed automation frameworks, conducted performance analyses on supercomputing clusters with Linux and SLURM, and optimized GPU-based applications in collaboration with cross-functional teams.
 
-My work spans a wide range of AI applications, including deep learning for computational biology, leveraging large language models for instructional use, and tackling real-world challenges through projects like Neural Oceans — which uses satellite imagery and deep neural networks to detect ocean plastic pollution — and Adaptive Education AI, an autonomous robot professor designed to teach students through natural interaction. I have also explored the perception deficits of image recognition models under adversarial conditions and have multiple research publications.
-
-I've had the opportunity to participate in several hackathons and have also won big at two of them!
-
-I'm excited to bring my research background, technical expertise, and project leadership experience to a dynamic team where I can contribute to impactful projects and advance in the fields of Artificial Intelligence and Software Engineering.
+I'm excited to bring my background in research, technical expertise, and project leadership experience to a dynamic team where I can contribute to impactful projects and advance in the fields of Artificial Intelligence and Software Engineering.
 
 ---
 
