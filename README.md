@@ -9,13 +9,6 @@
   </a>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I'm an Honors Computer Science graduate with a deep passion for Software Engineering and Artificial Intelligence.
----
-
 ### 🧰 Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
